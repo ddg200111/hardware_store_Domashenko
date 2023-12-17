@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "New Customer1",
+    "productId": 1,
+    "price": 2176.0,
+    "date": "2023-12-05",
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "name": "New Customer2",
+    "productId": 2,
+    "price": 14600.0,
+    "date": "2023-12-05",
+    "status": "Done"
+  },
+  {
+    "id": 3,
+    "name": "New Customer3",
+    "productId": 3,
+    "price": 7200.0,
+    "date": "2023-12-05",
+    "status": "Accepted"
+  }
+]
