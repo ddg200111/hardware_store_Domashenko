@@ -1,4 +1,3 @@
-# hardware_store_Domashenko
 1. Клонування репозиторію:
   - Відкрийте термінал або командний рядок на вашому комп'ютері.
   - Введіть команду git clone і додайте URL репозиторію. Наприклад: git clone https://github.com/your-username/order-management-system.git
